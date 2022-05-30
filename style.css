@@ -16,8 +16,8 @@ p{
 
 .cal{
 	text-align: center;
-	background-color: black;
-	color: white;
+	font-size: 25px;
+	color: black;
 }
 
 input{
