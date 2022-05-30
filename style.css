@@ -1,0 +1,41 @@
+body{
+	background-image: url(dados.webp);
+}
+
+h1{
+	text-align: center;
+	background-color: black;
+	color: white;
+	border-radius: 30px;
+}
+
+p{
+	font-family: sans-serif;
+	color: white;
+}
+
+.cal{
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+
+input{
+	background-color: red;
+	border-radius: 50px;
+    color: white;
+    font-size: 20px;
+    margin: 5px;
+    padding: 15px 40px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.buttn{
+	border-radius: 50px;
+    color: white;
+    font-size: 20px;
+    margin: 5px;
+    padding: 15px 40px;
+    text-align: center;
+}
